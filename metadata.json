@@ -1,0 +1,6 @@
+{
+  "name": "Học Liệu Lập Trình Căn Bản C++",
+  "description": "Đề cương và hệ thống học liệu tự học môn Lập trình Căn bản C++ cho sinh viên năm nhất CNTT",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
